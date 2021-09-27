@@ -2,11 +2,13 @@
 <a href="https://github.com/phnixir/moc-rich-presence" >
 <img src="https://i.ibb.co/qkNd5z0/moclogo.png" alt="Music on Console" width="128" height="128">
 </a>
+
 This is a small rust program using the moc-rs crate to add discord rich presence
 functionality to the MoC server, I use MoC a LOT and I love it, I also enjoy
 using discord and I couldn't find anything that would add rich presence
 functionality to MoC, so I wrote it myself!
 
+## Dependencies
 ⚠️ This utility assumes that you have the program `mocp` in your path, since MoC
 is a linux only program you can find an up to date version in most distribution's
 repositories in a package called `moc`
