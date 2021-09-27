@@ -1,5 +1,7 @@
 # Discord rich presence for Music on Console
-[![Music on Console](https://i.ibb.co/qkNd5z0/moclogo.png)](https://github.com/phnixir/moc-rich-presence)
+<a href="https://github.com/phnixir/moc-rich-presence" >
+<img src="https://i.ibb.co/qkNd5z0/moclogo.png" alt="Music on Console" width="128" height="128">
+</a>
 This is a small rust program using the moc-rs crate to add discord rich presence
 functionality to the MoC server, I use MoC a LOT and I love it, I also enjoy
 using discord and I couldn't find anything that would add rich presence
